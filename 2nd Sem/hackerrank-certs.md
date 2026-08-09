@@ -4,8 +4,8 @@
 
 | Achievement | Status |
 |-------------|--------|
-| 3★ Problem Solving | 🔍 Verify |
-| 3★ Java | 🔍 Verify |
-| Problem Solving Basic Certificate | 🔍 Verify |
+| 3★ Problem Solving | ✅ |
+| 3★ Java | ✅ |
+| Problem Solving Basic Certificate | ✅ |
 
-Verify badge counts and certificate downloads on the profile page.
+**Status:** ✅ Complete

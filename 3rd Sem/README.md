@@ -4,8 +4,8 @@
 |-------|--------|----------|
 | LeetCode 175+ (80E+80M+15H), 3 contests | ✅ | [leetcode-elite.md](./leetcode-elite.md) |
 | GFG 100+ solved, score 800+ | ⏳ Pending | [gfg-elite.md](./gfg-elite.md) |
-| HackerRank 4★ SQL | ⏳ Pending | [hackerrank-elite-certs.md](./hackerrank-elite-certs.md) |
-| HackerRank Java Intermediate cert | ⏳ Pending | [hackerrank-elite-certs.md](./hackerrank-elite-certs.md) |
+| HackerRank 4★ SQL | ✅ | [hackerrank-elite-certs.md](./hackerrank-elite-certs.md) |
+| HackerRank Java Intermediate cert | Not Available | [hackerrank-elite-certs.md](./hackerrank-elite-certs.md) |
 | Vanilla JS project with API calls | ✅ | [vanilla-js-project.md](./vanilla-js-project.md) |
 | React project with components + state | ✅ | [react-project.md](./react-project.md) |
 | DSA repo with 175+ solutions | ✅ | [dsa-repo.md](./dsa-repo.md) |
